@@ -1,0 +1,26 @@
+/btop/
+/configstore/
+/gh/
+/github-copilot/
+/xbuild/
+/uv/
+/spotatui/
+/atuin/
+/dconf/
+/pulse/
+/session/
+/zen/
+
+
+dolphinrc
+
+# Browser extension state
+/glide/
+
+# Zed: keep only portable preferences
+/zed/*
+!/zed/settings.json
+!/zed/keymap.json
+
+# Neovim is maintained in its own repository
+/nvim/
